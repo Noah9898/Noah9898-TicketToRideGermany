@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Meeple
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Meople\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=c
+comment1.target=Meeple(Colors)
+comment2.params=c
+comment2.target=int\ totalMeeplePerCity(Cities)
+comment2.text=\r\n\ How\ many\ meeples\ can\ be\ in\ the\ city\ in\ total\r\n\ \r\n\ @param\ c\ the\ city\ to\ check\r\n\ @return\ the\ total\ number\ of\ meeples\ allowed\ per\ city\r\n
+comment3.params=
+comment3.target=Colors\ getColor()
+numComments=4

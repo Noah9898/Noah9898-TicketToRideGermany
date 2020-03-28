@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Edge
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Edge\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=color\ length\ src\ dst
+comment1.target=Edge(Colors,\ int,\ int,\ int)
+comment2.params=owner
+comment2.target=void\ setOwner(Player)
+numComments=3
